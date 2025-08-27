@@ -1,3 +1,5 @@
+<!-- @format -->
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/njiang1987/njiang1987/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/njiang1987/njiang1987/output/pacman-contribution-graph-dark.svg">
+  <img alt="吃豆人风格贡献图" src="https://raw.githubusercontent.com/njiang1987/njiang1987/output/pacman-contribution-graph.svg">
+</picture>
